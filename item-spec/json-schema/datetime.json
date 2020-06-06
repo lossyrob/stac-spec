@@ -26,7 +26,7 @@
             },
             "start_datetime": {
               "$ref": "#/definitions/start_datetime"
-            }, 
+            },
             "end_datetime": {
               "$ref": "#/definitions/end_datetime"
             }
@@ -64,7 +64,7 @@
             },
             "start_datetime": {
               "$ref": "#/definitions/start_datetime"
-            }, 
+            },
             "end_datetime": {
               "$ref": "#/definitions/end_datetime"
             }
