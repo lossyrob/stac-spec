@@ -83,6 +83,21 @@
       "title": "Last Update Time",
       "type": "string",
       "format": "date-time"
+    },
+    "datetime_string": {
+      "title": "Date and Time",
+      "type": "string",
+      "format": "date-time"
+    },
+    "start_datetime": {
+      "title": "Start Date and Time",
+      "type": "string",
+      "format": "date-time"
+    },
+    "end_datetime": {
+      "title": "End Date and Time",
+      "type": "string",
+      "format": "date-time"
     }
   }
 }
